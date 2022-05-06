@@ -1,0 +1,30 @@
+body{
+    background-color:red;
+}
+.center{
+    flex-direction:  column;
+    display: flex;
+    font-size: 30px;
+}
+button{
+    margin: auto;
+    height: 150px;
+    width: 350px;
+    background-color:yellow;
+    color: black;
+    font-size: 30px;
+    border-color: black;
+    border-radius: 20px;
+}
+button:hover{
+    background-color:white;
+    color:black;
+    
+}
+h1{
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
